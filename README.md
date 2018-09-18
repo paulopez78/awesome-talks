@@ -36,6 +36,9 @@
 * [Jonas Bonér](https://twitter.com/jboner)
   * [Designing Events-First Microservices](https://www.infoq.com/presentations/microservices-events-first-design)
 
+* [Tim Berglund](https://twitter.com/tlberglund)
+  * [Four Distributed Systems Architectural Patterns](https://www.youtube.com/watch?v=tpspO9K28PMj)
+
 * [Mark Seeman](https://twitter.com/ploeh)
   * [Functional architecture - The pits of success](https://www.youtube.com/watch?v=US8QG9I1XW0)
   * [From Dependency injection to dependency rejection](https://www.youtube.com/watch?v=cxs7oLGrxQ4)
