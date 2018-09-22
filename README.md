@@ -33,6 +33,9 @@
 * [David Schmitz](https://twitter.com/koenighotze)
   * [10 Tips for failing badly at Microservices](https://www.youtube.com/watch?v=X0tjziAQfNQ)
 
+* [Jimmy Bogard](https://twitter.com/jbogard)
+  * [Avoiding Microservice Megadisasters](https://www.youtube.com/watch?v=gfh-VCTwMw8)
+
 * [Caitie McCaffrey](https://twitter.com/caitie)
   * [Applying the Saga Pattern](https://www.youtube.com/watch?v=xDuwrtwYHu8)
 
