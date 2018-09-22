@@ -22,6 +22,9 @@
 * [Randy Shoup](https://twitter.com/randyshoup)
   * [Managing Data in Microservices](https://www.youtube.com/watch?v=E8-e-3fRHBw)
 
+* [Christian Posta](https://twitter.com/christianposta)
+  * [The hardest part of microservices is your data](https://www.youtube.com/watch?v=MrV0DqTqpFU)
+
 * [Udi Dahan](https://twitter.com/UdiDahan)
   * [CQRS – but different](https://vimeo.com/131199089)
   * [If (domain logic) then CQRS, or Saga? CQRS – but different](https://www.youtube.com/watch?v=fWU8ZK0Dmxs)
