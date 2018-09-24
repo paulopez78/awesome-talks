@@ -55,3 +55,6 @@
 * [Scott Wlaschin](https://twitter.com/ScottWlaschin)
   * [Domain Modeling Made Functional](https://www.youtube.com/watch?v=Up7LcbGZFuo)
   * [Functional Design Patterns](https://www.youtube.com/watch?v=srQt1NAHYC0)
+
+* More awesome talks
+  * [Scaling Event Sourcing for Netflix Downloads](https://www.youtube.com/watch?v=rsSld8NycCU)
