@@ -10,6 +10,7 @@
 * [Martin Fowler](https://twitter.com/martinfowler)
   * [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA)
   * [The Many Meanings of Event-Driven Architecture](https://www.youtube.com/watch?v=STKCRSUsyP0)
+  * [Martin Fowler + Toby Clemson | Kafka Summit 2018 Keynote (Experimentation Using Event-based Systems)](https://www.youtube.com/watch?v=_RgUxUTuxH4)
 
 * [Martin Kleppmann](https://twitter.com/martinkl)
   * [Turning the database inside out ](https://www.youtube.com/watch?v=fU9hR3kiOK0)
