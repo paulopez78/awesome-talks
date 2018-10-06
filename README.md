@@ -26,6 +26,9 @@
 * [Christian Posta](https://twitter.com/christianposta)
   * [The hardest part of microservices is your data](https://www.youtube.com/watch?v=MrV0DqTqpFU)
 
+* [Edson Yanaga](https://twitter.com/yanaga)
+  * [Migrating to Microservice Databases From Relational Monolith to Distributed Data](https://www.youtube.com/watch?v=qR27-XWnQYs)
+
 * [Udi Dahan](https://twitter.com/UdiDahan)
   * [CQRS – but different](https://vimeo.com/131199089)
   * [If (domain logic) then CQRS, or Saga? CQRS – but different](https://www.youtube.com/watch?v=fWU8ZK0Dmxs)
