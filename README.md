@@ -28,11 +28,15 @@
 
 * [Edson Yanaga](https://twitter.com/yanaga)
   * [Migrating to Microservice Databases From Relational Monolith to Distributed Data](https://www.youtube.com/watch?v=qR27-XWnQYs)
+  * [Slice & Dice your Monolith with Domain Driven Design](https://www.youtube.com/watch?v=TYgHtZhS1jI)
 
 * [Udi Dahan](https://twitter.com/UdiDahan)
   * [CQRS – but different](https://vimeo.com/131199089)
   * [If (domain logic) then CQRS, or Saga? CQRS – but different](https://www.youtube.com/watch?v=fWU8ZK0Dmxs)
   * [Microservices and Rules Engines – a blast from the past](https://www.youtube.com/watch?v=Fuac__g928E)
+
+* [Fred George](https://github.com/fredgeorge)
+  * [The Entity Microservice Trap You May Be Doing It Wrong](https://www.youtube.com/watch?v=vs_XiP5Lkgg)
 
 * [Alberto Brandolini](https://twitter.com/ziobrando)
   * [50,000 Orange Stickies Later](https://www.youtube.com/watch?v=1i6QYvYhlYQ)
