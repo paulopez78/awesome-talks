@@ -41,6 +41,9 @@
 * [Alberto Brandolini](https://twitter.com/ziobrando)
   * [50,000 Orange Stickies Later](https://www.youtube.com/watch?v=1i6QYvYhlYQ)
 
+* [Nick Tune](https://twitter.com/ntcoding)
+  * [The Art of Discovering Bounded Contexts](https://www.youtube.com/watch?v=ez9GWESKG4I)
+
 * [David Schmitz](https://twitter.com/koenighotze)
   * [10 Tips for failing badly at Microservices](https://www.youtube.com/watch?v=X0tjziAQfNQ)
 
