@@ -63,6 +63,7 @@
 * [Mark Seeman](https://twitter.com/ploeh)
   * [Functional architecture - The pits of success](https://www.youtube.com/watch?v=US8QG9I1XW0)
   * [From Dependency injection to dependency rejection](https://www.youtube.com/watch?v=cxs7oLGrxQ4)
+  * [Get value out of your monad](https://www.youtube.com/watch?v=F9bznonKc64)
 
 * [Scott Wlaschin](https://twitter.com/ScottWlaschin)
   * [Domain Modeling Made Functional](https://www.youtube.com/watch?v=Up7LcbGZFuo)
