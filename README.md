@@ -23,6 +23,9 @@
 * [Randy Shoup](https://twitter.com/randyshoup)
   * [Managing Data in Microservices](https://www.youtube.com/watch?v=E8-e-3fRHBw)
 
+* [Vaughn Vernon](https://twitter.com/VaughnVernon)
+  * [Rethinking Legacy and Monolithic Systems](https://www.youtube.com/watch?v=OSARwCnSRCI)
+
 * [Christian Posta](https://twitter.com/christianposta)
   * [The hardest part of microservices is your data](https://www.youtube.com/watch?v=MrV0DqTqpFU)
 
