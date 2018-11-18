@@ -53,6 +53,7 @@
 * [Jimmy Bogard](https://twitter.com/jbogard)
   * [Avoiding Microservice Megadisasters](https://www.youtube.com/watch?v=gfh-VCTwMw8)
   * [Domain Driven Design: The Good Parts](https://www.youtube.com/watch?v=U6CeaA-Phqo)
+  * [Vertical Slice Architecture](https://www.youtube.com/watch?v=SUiWfhAhgQw)
 
 * [Caitie McCaffrey](https://twitter.com/caitie)
   * [Applying the Saga Pattern](https://www.youtube.com/watch?v=xDuwrtwYHu8)
